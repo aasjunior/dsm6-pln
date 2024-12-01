@@ -55,5 +55,7 @@ classes = [
 # Cria a estrutura para armazenamento dos textos e classes (DataFrame)
 df = pd.DataFrame({'texto': text, 'classe': classes})
 
+df.to_csv('dataset.csv', index=False)
+
 # Imprime o formato em que os dados são armazenados dentro do DataFrame
 print(df)

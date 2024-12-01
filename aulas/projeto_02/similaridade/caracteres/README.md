@@ -23,3 +23,5 @@ Linhas = 7 e Colunas = 8
 TAXA de Similaridade (CORREIRA, CORRIDA) = 4/8 = 50 %
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
